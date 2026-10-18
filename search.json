@@ -116,21 +116,21 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "I teach data science to social scientists, and social science to people who arrived through data. Almost every student in my graduate courses is fluent in exactly one of Breiman’s two cultures — the data-modeling culture of inference, or the algorithmic culture of prediction. My courses are built to make them bilingual.\nThree commitments follow. I organize instruction around CRISP-DM rather than around software, because students who learn a sequence of packages are obsolete within three years. Every assignment renders: students work in Quarto and version their work in Git, because a result that cannot be reproduced has not been obtained. And the data is real — election studies, social media extraction, administrative records — with the missingness and measurement error intact."
+    "text": "I teach data science to all disciplines, from social sciences to brain science to computer science."
   },
   {
     "objectID": "teaching.html#graduate-sequence",
     "href": "teaching.html#graduate-sequence",
     "title": "Teaching",
     "section": "Graduate sequence",
-    "text": "Graduate sequence\n\n\n\n\n\n\n\nCourse\nFocus\n\n\n\n\nMethods of Data Collection and Production (EPPS 6302)\nAPIs, scraping, survey instruments, reproducible pipelines\n\n\nData Visualization\nGrammar of graphics, Quarto and Shiny, public deployment\n\n\nInformation Management (EPPS 6354)\nRelational design, SQL, AI-assisted workflows\n\n\nKnowledge Mining (EPPS 6323)\nText analytics, language models, applied NLP\n\n\nAdvanced Data Programming\nProduction R, package structure, testing\n\n\nComputational Social Science\nOriginal computational study\n\n\nSurvey Research · SEM and Multilevel Models · Advanced Research Methods\nApplied measurement and modeling\n\n\n\nI also teach Politics of China, East Asian Politics, Political Economy of East Asia, and Southeast Asia Politics at both levels."
+    "text": "Graduate sequence\n\n\n\n\n\n\n\nCourse\nFocus\n\n\n\n\nMethods of Data Collection and Production (EPPS 6302)\nAPIs, scraping, survey instruments, reproducible pipelines\n\n\nData Visualization\nGrammar of graphics, Quarto and Shiny, public deployment\n\n\nInformation Management (EPPS 6354)\nRelational design, SQL, AI-assisted workflows\n\n\nKnowledge Mining (EPPS 6323)\nText analytics, language models, applied NLP\n\n\nAdvanced Data Programming\nProduction R, package structure, testing\n\n\nComputational Social Science\nOriginal computational study\n\n\nSurvey Research · SEM and Multilevel Models · Advanced Research Methods\nApplied measurement and modeling\n\n\n\nI also teach Political Economy of Technology, Politics of China, East Asian Politics."
   },
   {
     "objectID": "teaching.html#program-building",
     "href": "teaching.html#program-building",
     "title": "Teaching",
     "section": "Program building",
-    "text": "Program building\n\nFounder, Social Data Analytics and Research program, 2017 — designed the curriculum, wrote the core courses, and remain the main instructor for all of them\nDirector of Graduate Studies, Political Science, 2021–2025\nDirector of Academic Computing, 2005–2019\nOrganizer, Math and Coding Camp — the bridge program for students arriving without a quantitative background\nCo-host, Data Analytics Colloquium, 2021–"
+    "text": "Program building\n\nCo-Founder, Social Data Analytics and Research program, 2017 — designed the curriculum, wrote the core courses, and remain the main instructor for all of them\nDirector of Graduate Studies, Political Science, 2021–2025\nDirector of Academic Computing, 2005–2019\nOrganizer, EPPS Math and Coding Camp — the bridge program for students arriving without a quantitative background\nCo-host, Data Analytics Colloquium, 2021–present"
   },
   {
     "objectID": "teaching.html#course-materials",
@@ -144,7 +144,7 @@
     "href": "teaching.html#mentored-research",
     "title": "Teaching",
     "section": "Mentored research",
-    "text": "Mentored research\nStudents leave my courses as co-authors. Recent conference papers written with graduate students cover generational cleavages in media effects, Bayesian network models of media influence, comparative democratic decline using NLP, the political economy of housing capital in China, structural topic models of American foreign policy opinion, partisan network analysis, and time-series machine learning on US–China trade."
+    "text": "Mentored research\nStudents who want to coauthor with me are encouraged to prepare CV, portfolio and proposal materials before scheduling a meeting. Recent conference papers written with graduate students cover generational cleavages in media effects, Bayesian network models of media influence, comparative democratic decline using NLP, the political economy of housing capital in China, structural topic models of American foreign policy opinion, partisan network analysis, and time-series machine learning on US–China trade. Regions of studies include Taiwan, Hong Kong, China and US."
   },
   {
     "objectID": "teaching.html#recognition",
